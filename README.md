@@ -1,4 +1,4 @@
-# Backup and Restore Script
+# Backup and Restore Automation
 This project provides a simple yet powerful Bash script for backing up and restoring directories with encryption. The script allows you to:
 * Backup: Compress and encrypt directories/files into a .tgz.gpg archive.
 * Restore: Decrypt and extract the backup to a specified directory.
